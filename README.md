@@ -7,7 +7,128 @@ Look up in inspect
 
 ##Code block
 ###20 timmars code
+Introduktion: varför programmering, dator språk
+Algoritmer:
+1.res er upp
+2.gå tyst ut i kapprummet
+3.vänta tills alla är ute
+4.hållför öronen
+5.ropa ert namn
+
+1.gå tillbaks in i klassrummet utan att röra någon annan
+2.när ni går förbi mig säg ert namn
+3.ställ er på er egen stol
+
+A) gå fram 1 steg, gå fram ett steg, gå fram ett steg, sväng vänster
+B) gå fram 3 steg, sväng vänster
+C) gå tills du når tavlan, sväng vänster
+D) gå framåt till stopp, om du når tavlan sväng vänster annars sväng höger
+
+egna algoritmer - enkla 5 kommandon, spela upp
+
 https://studio.code.org/s/20-hour/stage/2/puzzle/1
+https://studio.code.org/s/20-hour/stage/2/puzzle/6 repeat block
+https://studio.code.org/s/20-hour/stage/2/puzzle/10 repeat until
+https://studio.code.org/s/20-hour/stage/2/puzzle/14 if statement
+https://studio.code.org/s/20-hour/stage/2/puzzle/18 if else block
+
+**Computational thinking**
+https://studio.code.org/unplugged/unplug2.pdf monster
+• Monster Catalog (1 per group) sid 8-9
+• Blank pieces of paper (3 per person)
+• Markers, pens, or pencils (1 pack per group)
+• Scissors
+
+**Graph paper programming**
+https://studio.code.org/unplugged/unplug3.pdf printa sid 8-14 s 91 fyll i och flytta
+
+
+https://studio.code.org/s/20-hour/stage/5/puzzle/1 artist draw
+
+Algorithms
+https://studio.code.org/unplugged/unplug4.pdf mönster programmering, vik papper
+
+https://studio.code.org/s/20-hour/stage/7/puzzle/1 artist draw2
+
+Functions
+https://studio.code.org/unplugged/unplug5.pdf printa sid 7
+
+https://studio.code.org/s/20-hour/stage/9/puzzle/5 while loop
+
+Conditions
+https://studio.code.org/unplugged/unplug6.pdf spelkort
+
+Zombie artist, code in categories
+https://studio.code.org/s/20-hour/stage/11/puzzle/6 variables, titta på kod
+
+https://studio.code.org/unplugged/unplug7.pdf song writing, functions= refräng, parametrar = ord som ändras
+ex "old mc donald"
+
+Old MACDONALD had a farm
+E-I-E-I-O
+And on his farm he had a ANIMAL
+E-I-E-I-O
+With a LÄTE LÄTE here
+And a LÄTE LÄTE there
+Here a LÄTE, there a LÄTE
+Everywhere a LÄTE LÄTE
+Old MacDonald had a farm
+E-I-E-I-O
+
+oldMcDonald(animal, läte)
+oldMcDonald(cow, mooh)
+oldMcDonald(pig, oink)
+oldMcDonald(horse, gnägg)
+
+vi gratulerar(namn, år)
+
+farmer
+https://studio.code.org/s/20-hour/stage/13/puzzle/2 functions
+
+Abstraction
+https://studio.code.org/unplugged/unplug8.pdf story template Mad Glibs page 285 print 289-230
+
+Artist
+https://studio.code.org/s/20-hour/stage/15/puzzle/6 functions with parameters, visa en 
+
+Relay programming
+https://studio.code.org/unplugged/unplug9.pdf staffett med paper image fillout printa 130-135
+
+Internet
+https://studio.code.org/unplugged/unplug10.pdf how it works print 244-247
+
+
+Artist example 
+https://studio.code.org/s/20-hour/stage/19/puzzle/1 förändra testa befintling kod
+
+wrap up
+https://studio.code.org/unplugged/unplug11.pdf gör egna spel
+
+
+
+
+1) Intro: What is Computer Science?
+2) Maze #1: Sequence, Loops, Conditionals, Nesting
+3) Computational Thinking: Decompose, Patterns, Abstraction, Algorithms
+4) Graph Paper Programming: Draw what the algorithm tells you
+5) Artist #1: Draw Shapes, Loops, Increment
+6) Algorithms: Put shapes into pictures, Folding paper
+7) Artist #2: Figure out algorithm
+8) Functional Activity: Suncatchers - Program, functions, variables
+9) Farmer #1: Conditionals, Repetition, Variables
+10) Conditionals Exercise: Coding with Cards
+11) Artist #3: Calling functions, Repeat with Loops, Variables & Parameters
+12) Song Writing: Functions like a chorus, Passing parameters, Parameters as Variables
+13) Farmer #2: Functions
+14) Abstraction: Madlib style stories
+15) Artist #4: Functions and Parameters
+16) Coding Under Pressure: Double Checking, Debugging
+17) Farmer #3: Importance of Order, Debug pre-made program
+18) Internet: What is the Internet? How does it work?
+19) Artist #5: Free play
+20) CS Wrap-U : What did we learn? What was your favorite part?
+
+
 
 ###Steg 4
 https://studio.code.org/s/course4/stage/2/puzzle/1
