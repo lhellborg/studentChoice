@@ -37,6 +37,7 @@ https://studio.code.org/unplugged/unplug2.pdf monster
 lägg ihop alla siffror från 
 1-200, 1+200=201 2+199=201 200/2=100 => 100*201
 1-5, 1+5=6 2+4=6 3 5/2=2.5 2.5*6=15 
+(max/2) * (max+1)
 • Monster Catalog (1 per group) sid 8-9
 • Blank pieces of paper (3 per person)
 • Markers, pens, or pencils (1 pack per group)
@@ -50,7 +51,9 @@ https://studio.code.org/unplugged/unplug3.pdf printa sid 8-14 s 91 fyll i och fl
 • Markers, pens, or pencils (two or
 three colors)
 
-https://studio.code.org/s/20-hour/stage/5/puzzle/1 artist draw
+`artist draw`
+gå igenom **vinklar** helt varv 360 grader, 360gr/antal sidor = vinkel
+https://studio.code.org/s/20-hour/stage/5/puzzle/1 
 
 **Algorithms**
 https://studio.code.org/unplugged/unplug4.pdf mönster programmering, vik papper
@@ -140,7 +143,7 @@ https://studio.code.org/unplugged/unplug11.pdf gör egna spel
 
 
 **1) Intro: What is Computer Science?**
-2) Maze #1: Sequence, Loops, Conditionals, Nesting
+ 2) Maze #1: Sequence, Loops, Conditionals, Nesting
 **3) Computational Thinking: Decompose, Patterns, Abstraction, Algorithms**
 **4) Graph Paper Programming: Draw what the algorithm tells you**
 5) Artist #1: Draw Shapes, Loops, Increment
