@@ -34,6 +34,9 @@ https://studio.code.org/s/20-hour/stage/2/puzzle/18 if else block
 
 **Computational thinking**
 https://studio.code.org/unplugged/unplug2.pdf monster
+lägg ihop alla siffror från 
+1-200, 1+200=201 2+199=201 200/2=100 => 100*201
+1-5, 1+5=6 2+4=6 3 5/2=2.5 2.5*6=15 
 • Monster Catalog (1 per group) sid 8-9
 • Blank pieces of paper (3 per person)
 • Markers, pens, or pencils (1 pack per group)
@@ -41,26 +44,43 @@ https://studio.code.org/unplugged/unplug2.pdf monster
 
 **Graph paper programming**
 https://studio.code.org/unplugged/unplug3.pdf printa sid 8-14 s 91 fyll i och flytta
-
+• Sample Drawings/Algorithms Kit sid 8-14 
+• Programming Instructions Card sid 3
+• Large grid graph paper
+• Markers, pens, or pencils (two or
+three colors)
 
 https://studio.code.org/s/20-hour/stage/5/puzzle/1 artist draw
 
-Algorithms
+**Algorithms**
 https://studio.code.org/unplugged/unplug4.pdf mönster programmering, vik papper
+• Tangram Image Pack (one set per pair) sid 271-272
+• Tangram Pieces (one set per pair) sid 270
+• Graph paper (five or six sheets per pair)
+• One piece of blank paper
 
 https://studio.code.org/s/20-hour/stage/7/puzzle/1 artist draw2
 
-Functions
+**Functions**
 https://studio.code.org/unplugged/unplug5.pdf printa sid 7
+• One foot of string, thread, or fishing line per student
+• 2-4 beads per student
+• 2-4 other accessories (buttons, hoops, spacers) per student
+• One special bead, prism, or student-made sun charm per student
+• One Skills Sheet per group sid 203
 
 https://studio.code.org/s/20-hour/stage/9/puzzle/5 while loop
 
-Conditions
+**Conditions**
 https://studio.code.org/unplugged/unplug6.pdf spelkort
+• 1 set of Program Pages per class (This has
+at least one sample program on it) sid 142-144
+• 1 deck of playing cards
 
 Zombie artist, code in categories
 https://studio.code.org/s/20-hour/stage/11/puzzle/6 variables, titta på kod
 
+**Song writing**
 https://studio.code.org/unplugged/unplug7.pdf song writing, functions= refräng, parametrar = ord som ändras
 ex "old mc donald"
 
@@ -85,48 +105,60 @@ vi gratulerar(namn, år)
 farmer
 https://studio.code.org/s/20-hour/stage/13/puzzle/2 functions
 
-Abstraction
-https://studio.code.org/unplugged/unplug8.pdf story template Mad Glibs page 285 print 289-230
+**Abstraction**
+https://studio.code.org/unplugged/unplug8.pdf story template Mad Glibs page 285 
+• Paper, pencils, and printed copies of
+stories for every student sid 289-230
 
 Artist
 https://studio.code.org/s/20-hour/stage/15/puzzle/6 functions with parameters, visa en 
 
-Relay programming
+**Relay programming**
 https://studio.code.org/unplugged/unplug9.pdf staffett med paper image fillout printa 130-135
+• Sample Drawings/Algorithms Kit from lesson 4
+• Programming Instructions Card
+• Large grid graph paper
+• Blank notecards or pieces of paper
+• Markers, pens, or pencils (two or three colors)
 
-Internet
+
+**Internet**
 https://studio.code.org/unplugged/unplug10.pdf how it works print 244-247
-
+• DNS Translation Table sid 244 
+• Server Address Name Tags sid 245
+• Message Packets sid 246
+• #10 envelopes
+• Scissors
 
 Artist example 
 https://studio.code.org/s/20-hour/stage/19/puzzle/1 förändra testa befintling kod
 
-wrap up
+**wrap up**
 https://studio.code.org/unplugged/unplug11.pdf gör egna spel
 
 
 
 
-1) Intro: What is Computer Science?
+**1) Intro: What is Computer Science?**
 2) Maze #1: Sequence, Loops, Conditionals, Nesting
-3) Computational Thinking: Decompose, Patterns, Abstraction, Algorithms
-4) Graph Paper Programming: Draw what the algorithm tells you
+**3) Computational Thinking: Decompose, Patterns, Abstraction, Algorithms**
+**4) Graph Paper Programming: Draw what the algorithm tells you**
 5) Artist #1: Draw Shapes, Loops, Increment
-6) Algorithms: Put shapes into pictures, Folding paper
+**6) Algorithms: Put shapes into pictures, Folding paper**
 7) Artist #2: Figure out algorithm
-8) Functional Activity: Suncatchers - Program, functions, variables
+**8) Functional Activity: Suncatchers - Program, functions, variables**
 9) Farmer #1: Conditionals, Repetition, Variables
-10) Conditionals Exercise: Coding with Cards
+**10) Conditionals Exercise: Coding with Cards**
 11) Artist #3: Calling functions, Repeat with Loops, Variables & Parameters
-12) Song Writing: Functions like a chorus, Passing parameters, Parameters as Variables
+**12) Song Writing: Functions like a chorus, Passing parameters, Parameters as Variables**
 13) Farmer #2: Functions
-14) Abstraction: Madlib style stories
+**14) Abstraction: Madlib style stories**
 15) Artist #4: Functions and Parameters
-16) Coding Under Pressure: Double Checking, Debugging
+**16) Coding Under Pressure: Double Checking, Debugging**
 17) Farmer #3: Importance of Order, Debug pre-made program
-18) Internet: What is the Internet? How does it work?
+**18) Internet: What is the Internet? How does it work?**
 19) Artist #5: Free play
-20) CS Wrap-U : What did we learn? What was your favorite part?
+**20) CS Wrap-U : What did we learn? What was your favorite part?**
 
 
 
