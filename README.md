@@ -8,7 +8,10 @@ Look up in inspect
 ##Code block
 ###20 timmars code
 Introduktion: varför programmering, dator språk
-Algoritmer:
+par programmering => https://youtu.be/vgkahOzFH2Q
+timer
+
+**Algoritmer:**
 1.res er upp
 2.gå tyst ut i kapprummet
 3.vänta tills alla är ute
